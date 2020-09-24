@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Giorgio Gamberoni's github stats](https://github-readme-stats.vercel.app/api?username=king-prawns&count_private=true&show_icons=true&hide=contribs)]()
+[![Giorgio Gamberoni's github stats](https://github-readme-stats.vercel.app/api?username=king-prawns&count_private=true&show_icons=true&hide=contribs)](https://github.com/king-prawns/king-prawns/blob/master/README.md)
