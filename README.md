@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I’m Giorgio (king-prawns), a video software engineer 📼
+I’m Giorgio (king-prawns)
 
 📫 [LinkedIn](https://www.linkedin.com/in/giorgiogamberoni)
